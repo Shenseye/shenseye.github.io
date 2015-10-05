@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "[Dailyprogrammer] Challenge 1 - #234 [Easy] Vampire Numbers"
 date: 2015-10-05 16:46:18
@@ -62,3 +62,101 @@ A list of all vampire numbers of n digits, you should emit the number and its fa
 479964=74*94*69
 498960=99*84*60
 ```
+
+## My solution
+
+I come up with this brute force algorithm using some help on stackoverflow about [make a nested loop with array](http://stackoverflow.com/questions/426878/is-there-any-way-to-do-n-level-nested-loops-in-java) from 'user2478398'. It is really over complicated and slow but it work.
+
+{% highlight js %}
+function vampireNumber(n, m) {
+
+    if (n % m != 0){
+        console.log("No Vampire Number like that exist.");
+        return;
+    } else {
+        var numLen = n / m;
+    }
+
+    var maxNum = '';
+
+    for (var i = 0; i < numLen; i++) {
+        maxNum+='9';
+    };
+
+    maxNum = parseInt(maxNum);
+
+    findVampireNumber(m, maxNum, n).forEach(function(vam) {
+        console.log(vam);
+    });
+}
+
+function findVampireNumber(n, max, len){
+    var indices = new Array(n),
+        ranges = new Array(n),
+        answer = [],
+        vamNums = [];
+
+    for (var i = 0; i < n; i++) {
+        ranges[i] = max + 1;
+        indices[i] = 1;
+    };
+
+    do {
+        var vamNum = indices.reduce(function(a, b) {
+            return a * b;
+        });
+        var vamStr = vamNum + '=' + indices.join('*');
+        if ((vamNum).toString().length == len 
+                && onlyOneEndWithZero(indices) && isVampireNumber(vamNum,indices)
+                && vamNums.indexOf(vamNum) == -1){
+            answer.push(vamStr);
+            vamNums.push(vamNum);
+        }
+        turn();
+    } while (!allMax());
+
+    return answer.sort();
+
+    function turn() {
+        for (var i = n - 1; i >= 0; i--) {
+            if (indices[i] + 1 == ranges[i])
+                indices[i] = 1;
+            else {
+                ++indices[i];
+                break;
+            }
+        };
+    }
+
+    function allMax() {
+        for(var i=n-1; i>=0; i--) {
+            if(indices[i] != ranges[i]-1) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
+
+function isVampireNumber (number, indices) {
+    return number.toString().split('').sort().join('') == indices.join('').split('').sort().join('');
+}
+
+function onlyOneEndWithZero(indices){
+
+    var onlyOne = 1;
+
+    indices.forEach(function(arg) {
+        if (arg % 10 == 0)
+            --onlyOne;
+    });
+
+    return onlyOne < 0 ? false : true;
+}
+
+console.log("Test with 4 and 2");
+vampireNumber(4, 2);
+
+console.log("Test with 6 and 3");
+vampireNumber(6, 3);
+{% endhighlight %}
