@@ -28,6 +28,9 @@
     {% if site.medium_id %}
       <a class="fa fa-medium" href="https://medium.com/{{ site.medium_id }}"></a>
     {% endif %}
+    {% if site.facebook_username %}
+      <a class="fa fa-facebook" href="https://www.facebook.com/{{ site.facebook_username }}"></a>
+    {% endif %}
   </div>
   <div class="right">
     {% if site.bitcoin_url %}
