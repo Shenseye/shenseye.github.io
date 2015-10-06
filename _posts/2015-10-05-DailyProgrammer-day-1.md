@@ -27,7 +27,7 @@ Two digits on one line indicating n, the number of digits in the number to facto
 
 A list of all vampire numbers of n digits, you should emit the number and its factors (or "fangs"). Example:
 
-```
+~~~
 1260=21*60
 1395=15*93
 1435=41*35
@@ -35,7 +35,7 @@ A list of all vampire numbers of n digits, you should emit the number and its fa
 1827=87*21
 2187=27*81
 6880=86*80
-```
+~~~
 
 #### Challenge Input
 
@@ -43,7 +43,7 @@ A list of all vampire numbers of n digits, you should emit the number and its fa
 
 #### Challenge Input Solution
 
-```
+~~~
 114390=41*31*90
 121695=21*61*95
 127428=21*74*82
@@ -61,7 +61,7 @@ A list of all vampire numbers of n digits, you should emit the number and its fa
 457968=56*94*87
 479964=74*94*69
 498960=99*84*60
-```
+~~~
 
 ## My solution
 

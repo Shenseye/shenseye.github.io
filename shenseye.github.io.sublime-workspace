@@ -1,0 +1,1132 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"t",
+				"tuple"
+			],
+			[
+				"pr",
+				"primes"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"n",
+				"numTuple"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"pu",
+				"purchase_amount	ch1.js"
+			],
+			[
+				"mo",
+				"money_and_tax(money)	ch1.js"
+			],
+			[
+				"A",
+				"ACCESSORY_PRICE	ch1.js"
+			],
+			[
+				"S",
+				"SPENDING_THRESHOLD	ch1.js"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"sc",
+				"scrollLeft"
+			],
+			[
+				"time",
+				"times"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"dr",
+				"drawActors"
+			],
+			[
+				"ac",
+				"actorLayor"
+			],
+			[
+				"dra",
+				"drawFrame"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"row",
+				"rowElt"
+			],
+			[
+				"si",
+				"simpleLevelPlan"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"fin",
+				"finishDelay	15_game.js"
+			],
+			[
+				"is",
+				"isFinished()	15_game.js"
+			],
+			[
+				"pla",
+				"player	15_game.js"
+			],
+			[
+				"gri",
+				"gridLine	15_game.js"
+			],
+			[
+				"lo",
+				"lock()	the_locked_box.js"
+			],
+			[
+				"bo",
+				"body	the_locked_box.js"
+			],
+			[
+				"un",
+				"unlock()	the_locked_box.js"
+			],
+			[
+				"en",
+				"energy	07_elife.js"
+			],
+			[
+				"Wa",
+				"WallFollower()	07_elife.js"
+			],
+			[
+				"val",
+				"valley	07_elife.js"
+			],
+			[
+				"va",
+				"valley	07_elife.js"
+			],
+			[
+				"Wo",
+				"world	07_elife.js"
+			],
+			[
+				"c",
+				"critter	07_elife.js"
+			],
+			[
+				"cont",
+				"context	07_elife.js"
+			],
+			[
+				"wi",
+				"width	07_elife.js"
+			],
+			[
+				"fo",
+				"forEach(function(aSome) {"
+			],
+			[
+				"wo",
+				"world	07_elife.js"
+			],
+			[
+				"W",
+				"World(map, legend)	07_elife.js"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"mi",
+				"minHeight"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"fucn",
+				"function"
+			],
+			[
+				"to",
+				"toFixed	(average_age_diff.js)"
+			],
+			[
+				"di",
+				"died"
+			],
+			[
+				"a",
+				"average"
+			],
+			[
+				"go",
+				"groupedByAge"
+			],
+			[
+				"an",
+				"ancestry"
+			],
+			[
+				"par",
+				"parse	$.parseJSON()"
+			],
+			[
+				"eq",
+				"equal"
+			],
+			[
+				"de",
+				"deepEqual"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"d",
+				"deepEqual"
+			],
+			[
+				"thin",
+				"thing2"
+			],
+			[
+				"thi",
+				"thing2"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"typ",
+				"typeof	(bean_counting.js)"
+			],
+			[
+				"thing",
+				"thing2"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"ar",
+				"arrayToList"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"rev",
+				"reverseArray"
+			],
+			[
+				"cou",
+				"countDown"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"in",
+				"increment"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"cha",
+				"charactor"
+			],
+			[
+				"und",
+				"undefined〔keyword〕"
+			],
+			[
+				"chi",
+				"chicken"
+			],
+			[
+				"ch",
+				"chicken"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"tex",
+				"text_center"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"end",
+				"endblock	(base.html)"
+			],
+			[
+				"bloc",
+				"block	(base.html)"
+			],
+			[
+				"tr",
+				"trydjango"
+			],
+			[
+				"dja",
+				"django	(wsgi.py)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"mini",
+				"min-height: 〔property〕"
+			],
+			[
+				"ba",
+				"background: 〔property〕"
+			],
+			[
+				"def",
+				"default	(settings.py)"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"da",
+				"danhSach"
+			],
+			[
+				"te",
+				"tenSV"
+			],
+			[
+				"Ten",
+				"Ten"
+			],
+			[
+				"ma",
+				"maSV"
+			],
+			[
+				"sinh",
+				"sinh_vien"
+			],
+			[
+				"sta",
+				"staticfiles	(settings.py)"
+			],
+			[
+				"MEDIA_",
+				"MEDIA_URL	(settings.py)"
+			],
+			[
+				"STATIC",
+				"STATIC_ROOT	(settings.py)"
+			],
+			[
+				"url",
+				"urlpatterns〔variable〕"
+			],
+			[
+				"se",
+				"settings	(settings.py)"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"pa",
+				"path〔module〕"
+			],
+			[
+				"som",
+				"some_email_html〔variable〕"
+			],
+			[
+				"EMAI",
+				"EMAIL_HOST_USER	(settings.py)"
+			],
+			[
+				"sen",
+				"send_mail〔module〕"
+			],
+			[
+				"ful",
+				"full_name"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"C",
+				"CharField	(models.py)"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"input",
+				"inputs	input - submit"
+			],
+			[
+				"tm",
+				"template_title	(views.py)"
+			],
+			[
+				"Sig",
+				"SignUpForm"
+			],
+			[
+				"mod",
+				"model	(admin.py)"
+			],
+			[
+				"Si",
+				"SignUpAdmin〔class〕"
+			],
+			[
+				"cl",
+				"class〔keyword〕"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bu",
+				"button"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "termi",
+		"selected_items":
+		[
+			[
+				"termi",
+				"Terminal: Open in project folder"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"open in ",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"gi",
+				"Gitignore: New gitignore"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"cheat Sheet",
+				"Cheat Sheet: Sublime Text"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ori",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"file dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"origami",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"open in",
+				"Terminal: Open in project folder"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"sync",
+				"Package Syncing: Define Sync Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shen/shenseye.github.io"
+	],
+	"file_history":
+	[
+		"/home/shen/shenseye.github.io/_posts/2015-10-05-DailyProgrammer-day-1.md",
+		"/home/shen/.local/share/applications/chrome-aohghmighlieiainnegkcijnfilokake-Default.desktop",
+		"/home/shen/.local/share/applications/chrome-kpjhcddaofpohlbadnmnnaenmmefdbgn-Default.desktop",
+		"/home/shen/shenseye.github.io/_includes/head.html",
+		"/home/shen/shenseye.github.io/_includes/post_footer.html",
+		"/home/shen/shenseye.github.io/_includes/social_links.html",
+		"/home/shen/shenseye.github.io/_config.yml",
+		"/home/shen/shenseye.github.io/_posts/2015-10-5-Angular-Day-1.md",
+		"/home/shen/shenseye.github.io/about.md",
+		"/home/shen/shenseye.github.io/_includes/footer.html",
+		"/home/shen/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/shen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/shen/shenseye.github.io/_layouts/post.html",
+		"/home/shen/shenseye.github.io/404.md",
+		"/home/shen/shenseye.github.io/CNAME",
+		"/home/shen/shenseye.github.io/_posts/2014-06-08-pixyll-has-pagination.md",
+		"/home/shen/Desktop/_posts/2015-10-5-Angular-Day-1.md",
+		"/home/shen/angular-phonecat/app/js/app.js",
+		"/home/shen/angular-phonecat/app/index.html",
+		"/home/shen/freecodecamp-new/news.html",
+		"/home/shen/chotmat.github.io/.gitignore",
+		"/home/shen/hellodjango/Procfile",
+		"/home/shen/python-getting-started/.gitignore",
+		"/home/shen/vanila-js/15_game/code/chapter/15_game.js",
+		"/home/shen/vanila-js/15_game/index.html",
+		"/home/shen/vanila-js/quoting_style.js",
+		"/home/shen/vanila-js/retry.js",
+		"/home/shen/vanila-js/the_locked_box.js",
+		"/home/shen/vanila-js/regexp_golf.js",
+		"/home/shen/vanila-js/number_again.js",
+		"/home/shen/vanila-js/month_name.js",
+		"/home/shen/vanila-js/Project: Electronic Life/07_elife/code/chapter/07_elife.js",
+		"/home/shen/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/shen/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/shen/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/shen/vanila-js/Project: Electronic Life/electron_life.js",
+		"/home/shen/vanila-js/sequence_interface.js",
+		"/home/shen/vanila-js/every_and_some.js",
+		"/home/shen/vanila-js/vector.js",
+		"/home/shen/vanila-js/another_cell.js",
+		"/home/shen/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/shen/vanila-js/flattening.js",
+		"/home/shen/vanila-js/average_age_diff.js",
+		"/home/shen/vanila-js/historical_life_expectancy.js",
+		"/home/shen/vanila-js/deep_equal.js",
+		"/home/shen/vanila-js/terminal.glue",
+		"/home/shen/.config/sublime-text-3/Packages/User/Glue.sublime-settings",
+		"/home/shen/vanila-js/ancestry.js",
+		"/home/shen/vanila-js/like_mother_like_child.js",
+		"/home/shen/vanila-js/chess.js",
+		"/home/shen/vanila-js/chicken_egg.js",
+		"/home/shen/vanila-js/minimum.js",
+		"/home/shen/vanila-js/bean_counting.js",
+		"/home/shen/vanila-js/sum_of_a_range.js",
+		"/home/shen/vanila-js/reversing_array.js",
+		"/home/shen/vanila-js/list.js",
+		"/home/shen/vanila-js/Recursion_Even.js",
+		"/home/shen/learnpythongroup/Trydjango/src/static_in_pro/our_static/js/jquery.min.map",
+		"/home/shen/learnpythongroup/Trydjango/src/static_in_pro/our_static/css/custom_style.css",
+		"/home/shen/learnpythongroup/Trydjango/static_in_env/static_root/css/custom_style.css",
+		"/home/shen/learnpythongroup/Trydjango/src/templates/head_css.html",
+		"/home/shen/learnpythongroup/Trydjango/src/templates/navbar.html",
+		"/home/shen/learnpythongroup/Trydjango/src/templates/home.html",
+		"/home/shen/learnpythongroup/Trydjango/src/trydjango/settings.py",
+		"/home/shen/learnpythongroup/Trydjango/README.md",
+		"/home/shen/learnpythongroup/Trydjango/src/trydjango.sublime-project",
+		"/home/shen/learnpythongroup/Trydjango/src/newsletter/untitled.sublime-project",
+		"/home/shen/learnpythongroup/Trydjango/src/trydjango/static_in_pro/our_static/img/example.txt",
+		"/home/shen/learnpythongroup/Trydjango/src/newsletter/models.py",
+		"/home/shen/learnpythongroup/Trydjango/src/newsletter/templates/home.html",
+		"/home/shen/learnpythongroup/Trydjango/src/trydjango/urls.py",
+		"/home/shen/learnpythongroup/Trydjango/src/newsletter/views.py",
+		"/home/shen/pomodoroclock/css/bootstrap.css.map",
+		"/home/shen/learnpythongroup/Pygame/Snake/README.md",
+		"/home/shen/C-project/ex5.c",
+		"/home/shen/BTVN.sh",
+		"/home/shen/BTVN2.sh",
+		"/home/shen/learnpythongroup/Pygame/Snake/Main.py",
+		"/home/shen/learnpythongroup/Pygame/Snake/Constant.py",
+		"/home/shen/learnpythongroup/Pygame/Snake/Game.py",
+		"/home/shen/learnpythongroup/Pygame/Snake/Snake.py",
+		"/home/shen/learnpythongroup/Pygame/Snake/Apple.py",
+		"/home/shen/learnpythongroup/Pygame/Snake/Player.py",
+		"/home/shen/learnpythongroup/Snake/Game.py",
+		"/home/shen/learnpythongroup/Pygame/snake.py",
+		"/home/shen/learnpythongroup/Pygame/SUPER SEVEN_shadowed.otf",
+		"/home/shen/.local/share/applications/VSCode.desktop",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWay/ex7.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWay/ex8.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex44b.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex4.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex42.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex43.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex44a.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex44c.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex44d.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex44e.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex5.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex6.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex7.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex8.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex9.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/hashmap.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex39_test.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex39.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex38.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex35.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33_refactor_for.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33_refactor.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex32.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex31.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex30.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex3.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex29.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex26.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex25.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex21.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex22.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex20.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex19.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex17_from.txt",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex18.py",
+		"/home/shen/learnpythongroup/ex17_to.txt",
+		"/home/shen/learnpythongroup/ex17_from.txt",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex16-2.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex16.py",
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex15.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"```",
+			"star-primary",
+			"actorLayor",
+			"grow",
+			"plant",
+			"ch",
+			"8",
+			"O",
+			"o",
+			"O",
+			"o",
+			"O",
+			"o",
+			"O",
+			"o",
+			"O",
+			"o",
+			"O",
+			"o",
+			"3",
+			"console.log",
+			");\n",
+			"y",
+			"x",
+			"i",
+			"this",
+			"vector",
+			"averageAge",
+			"groupedByAge",
+			"ANCESTRY_FILE",
+			"\"Emma de Milliano\"",
+			"\"Joanna van Rooten\"",
+			"\"Maria van Brussel\"",
+			"\"Sophia van Damme\"",
+			"\"Laurentia van Vlaenderen\"",
+			"Maria van Brussel",
+			"));",
+			"increment",
+			"2",
+			"1",
+			"a",
+			"A",
+			"a",
+			"j",
+			"i",
+			"custom-text-center",
+			"text-center",
+			"i",
+			"email",
+			"EMAIL",
+			"email",
+			"PATH + '/",
+			"started",
+			"turned",
+			"started",
+			"turned",
+			"True",
+			"turned",
+			"DTU",
+			"gameDisplay",
+			"width",
+			"WIDTH",
+			"width",
+			"WIDTH",
+			"apple_img",
+			"BLOCK_SIZE",
+			"color",
+			"HEIGHT",
+			"WIDTH",
+			"BLOCK_SIZE",
+			"font",
+			"largeFont",
+			"BLOCK_SIZE",
+			"randrange",
+			"6",
+			"WIDTH",
+			"Apple",
+			"BLOCK_SIZE",
+			"False",
+			"started",
+			"lead_y",
+			"lead_x",
+			"arg",
+			"fps",
+			"block_size",
+			"display_height",
+			"display_width",
+			"block_size",
+			"red",
+			"white",
+			"10",
+			"600",
+			"800",
+			"lead_y_change",
+			"lead_x_change",
+			"lead_y",
+			"lead_x",
+			"lead",
+			"lead_x",
+			"lead_x -= speed",
+			"10",
+			"print",
+			"raw_input",
+			"print",
+			"raw_input",
+			"multiple"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"HEIGHT"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "shenseye.github.io.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"20",
+				"_posts/2015-10-5-Angular-Day-1.md"
+			],
+			[
+				"test/unit/",
+				"test/unit/controllersSpec.js"
+			],
+			[
+				"cont",
+				"app/js/controllers.js"
+			],
+			[
+				"h",
+				"15_game/index.html"
+			],
+			[
+				"q",
+				"quoting_style.js"
+			],
+			[
+				"",
+				"deep_equal.js"
+			],
+			[
+				"his",
+				"historical_life_expectancy.js"
+			],
+			[
+				"a",
+				"src/templates/about.html"
+			],
+			[
+				"form",
+				"src/templates/forms.html"
+			],
+			[
+				"vi",
+				"src/newsletter/views.py"
+			],
+			[
+				"fo",
+				"src/templates/forms.html"
+			],
+			[
+				"bas",
+				"src/templates/base.html"
+			],
+			[
+				"home",
+				"src/templates/home.html"
+			],
+			[
+				"view",
+				"src/newsletter/views.py"
+			],
+			[
+				"cus",
+				"src/static_in_pro/our_static/css/custom_style.css"
+			],
+			[
+				"css",
+				"src/templates/head_css.html"
+			],
+			[
+				"na",
+				"src/templates/navbar.html"
+			],
+			[
+				"hom",
+				"src/templates/home.html"
+			],
+			[
+				"base",
+				"src/templates/base.html"
+			],
+			[
+				"se",
+				"src/trydjango/settings.py"
+			],
+			[
+				"set",
+				"src/trydjango/settings.py"
+			],
+			[
+				"tr",
+				"src/templates/trydjango.sublime-project"
+			],
+			[
+				"sett",
+				"src/trydjango/settings.py"
+			],
+			[
+				"vie",
+				"src/newsletter/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
