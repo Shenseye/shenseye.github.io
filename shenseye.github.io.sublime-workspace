@@ -669,10 +669,27 @@
 	},
 	"expanded_folders":
 	[
-		"/home/shen/shenseye.github.io"
+		"/home/shen/shenseye.github.io",
+		"/home/shen/shenseye.github.io/_layouts",
+		"/home/shen/shenseye.github.io/_posts",
+		"/home/shen/shenseye.github.io/_site",
+		"/home/shen/shenseye.github.io/_site/about",
+		"/home/shen/shenseye.github.io/_site/angularjs/2015",
+		"/home/shen/shenseye.github.io/_site/angularjs/2015/10",
+		"/home/shen/shenseye.github.io/_site/angularjs/2015/10/05",
+		"/home/shen/shenseye.github.io/_site/angularjs/2015/10/05/Angular-Day-1",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/05",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/05/DailyProgrammer-day-1",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/06",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/06/DailyProgrammer-day-2",
+		"/home/shen/shenseye.github.io/_site/thanks"
 	],
 	"file_history":
 	[
+		"/home/shen/shenseye.github.io/_posts/2015-10-06-DailyProgrammer-day-2.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-05-DailyProgrammer-day-1.md",
 		"/home/shen/.local/share/applications/chrome-aohghmighlieiainnegkcijnfilokake-Default.desktop",
 		"/home/shen/.local/share/applications/chrome-kpjhcddaofpohlbadnmnnaenmmefdbgn-Default.desktop",
@@ -799,8 +816,7 @@
 		"/home/shen/learnpythongroup/ex17_to.txt",
 		"/home/shen/learnpythongroup/ex17_from.txt",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex16-2.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex16.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex15.py"
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex16.py"
 	],
 	"find":
 	{
@@ -818,6 +834,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"simpler",
 			"```",
 			"star-primary",
 			"actorLayor",
@@ -1123,7 +1140,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 364.0,
 	"status_bar_visible": true,
 	"template_settings":

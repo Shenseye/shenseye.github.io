@@ -19,6 +19,31 @@ I will start learning Angularjs with [AngularJS Official Tutorial](https://docs.
 I'm already done the lessons 0,1,2  so i'm gonna run straight to the lessons 3
  
 ### Lesson 3 - Filtering Repeaters
+
+#### Template `app/index.html`:
+{% highlight html %}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      Search: <input ng-model="query">
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="phones">
+        <li ng-repeat="phone in phones | filter:query">
+          {{phone.name}}
+          <p>{{phone.snippet}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+{% endhighlight %}
  
 ![angular-filter-chart]({{site.baseurl}}https://docs.angularjs.org/img/tutorial/tutorial_03.png)
  
