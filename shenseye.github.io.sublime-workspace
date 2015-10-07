@@ -519,6 +519,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2015-10-7-DailyProgrammer-day-3.md",
+			"settings":
+			{
+				"buffer_size": 4319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-10-7-Angular-Day-3.md",
+			"settings":
+			{
+				"buffer_size": 5609,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -528,9 +544,13 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "termi",
+		"last_filter": "ma",
 		"selected_items":
 		[
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
 			[
 				"termi",
 				"Terminal: Open in project folder"
@@ -612,10 +632,6 @@
 				"Origami: Create Pane on the Right"
 			],
 			[
-				"ma",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
 				"re",
 				"Package Control: Remove Package"
 			],
@@ -648,7 +664,7 @@
 				"Package Syncing: Define Sync Folder"
 			]
 		],
-		"width": 449.0
+		"width": 557.0
 	},
 	"console":
 	{
@@ -670,25 +686,14 @@
 	"expanded_folders":
 	[
 		"/home/shen/shenseye.github.io",
-		"/home/shen/shenseye.github.io/_layouts",
 		"/home/shen/shenseye.github.io/_posts",
-		"/home/shen/shenseye.github.io/_site",
-		"/home/shen/shenseye.github.io/_site/about",
-		"/home/shen/shenseye.github.io/_site/angularjs/2015",
-		"/home/shen/shenseye.github.io/_site/angularjs/2015/10",
-		"/home/shen/shenseye.github.io/_site/angularjs/2015/10/05",
-		"/home/shen/shenseye.github.io/_site/angularjs/2015/10/05/Angular-Day-1",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/05",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/05/DailyProgrammer-day-1",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/06",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/06/DailyProgrammer-day-2",
-		"/home/shen/shenseye.github.io/_site/thanks"
+		"/home/shen/shenseye.github.io/images"
 	],
 	"file_history":
 	[
+		"/home/shen/shenseye.github.io/_posts/2015-10-7-DailyProgrammer-day-3.md",
+		"/home/shen/shenseye.github.io/_posts/2015-10-5-Angular-Day-1.md",
+		"/home/shen/shenseye.github.io/_posts/2015-10-06-Angular-Day-2.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-06-DailyProgrammer-day-2.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-05-DailyProgrammer-day-1.md",
 		"/home/shen/.local/share/applications/chrome-aohghmighlieiainnegkcijnfilokake-Default.desktop",
@@ -697,7 +702,6 @@
 		"/home/shen/shenseye.github.io/_includes/post_footer.html",
 		"/home/shen/shenseye.github.io/_includes/social_links.html",
 		"/home/shen/shenseye.github.io/_config.yml",
-		"/home/shen/shenseye.github.io/_posts/2015-10-5-Angular-Day-1.md",
 		"/home/shen/shenseye.github.io/about.md",
 		"/home/shen/shenseye.github.io/_includes/footer.html",
 		"/home/shen/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
@@ -814,13 +818,11 @@
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex17_from.txt",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex18.py",
 		"/home/shen/learnpythongroup/ex17_to.txt",
-		"/home/shen/learnpythongroup/ex17_from.txt",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex16-2.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex16.py"
+		"/home/shen/learnpythongroup/ex17_from.txt"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -834,6 +836,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"orderProp",
 			"simpler",
 			"```",
 			"star-primary",
@@ -959,8 +962,70 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2015-10-7-DailyProgrammer-day-3.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								707,
+								707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-10-7-Angular-Day-3.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2248,
+								2248
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1637.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1121,6 +1186,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Dailyprogrammer/DailyProgrammer.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
@@ -1140,8 +1209,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 364.0,
+	"side_bar_visible": false,
+	"side_bar_width": 233.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
