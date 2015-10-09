@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[100 Days Angularjs] Day 3: Tutorial - 5 - XHRs & Dependency Injection"
+title: "[100 Days Angularjs] Day 4: Tutorial - 5 - XHRs & Dependency Injection"
 date: 2015-10-08
 summary: The 4th day of my 100 day challenge with AngularJS
 categories: AngularJS
@@ -10,7 +10,7 @@ published: true
 
 ## Day 4 of 100 days with Angular
 
-It is pretty late here when i post this so i kinda sleepy now. But i have to keep up with my challenge.
+It is pretty late here when i post this so i kinda sleepy now :sleepy:. But i have to keep up with my challenge.
 Never drop it down for any reason or i will lost my momentum.
 
 ### Controller

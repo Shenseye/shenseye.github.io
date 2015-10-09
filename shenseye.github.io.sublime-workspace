@@ -710,9 +710,7 @@
 	"expanded_folders":
 	[
 		"/home/shen/shenseye.github.io",
-		"/home/shen/shenseye.github.io/_layouts",
-		"/home/shen/shenseye.github.io/_posts",
-		"/home/shen/shenseye.github.io/images"
+		"/home/shen/shenseye.github.io/_posts"
 	],
 	"file_history":
 	[
@@ -987,7 +985,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1048,7 +1046,7 @@
 						"translation.y": 5777.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -1076,10 +1074,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1246.0,
+						"translation.y": 947.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -1125,8 +1123,8 @@
 						"selection":
 						[
 							[
-								2632,
-								2632
+								1990,
+								1990
 							]
 						],
 						"settings":
@@ -1137,10 +1135,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 345.0,
+						"translation.y": 1173.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
