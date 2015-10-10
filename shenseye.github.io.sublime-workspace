@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2015-10-8-Angular-Day-4.md",
+			"file": "_posts/2015-10-10-Angular-Day-6.md",
 			"settings":
 			{
-				"buffer_size": 3571,
+				"buffer_size": 2848,
 				"line_ending": "Unix"
 			}
 		}
@@ -682,11 +682,13 @@
 	],
 	"file_history":
 	[
+		"/home/shen/shenseye.github.io/_posts/2015-10-10-DailyProgrammer-day-6.md",
+		"/home/shen/shenseye.github.io/_posts/2015-10-8-Angular-Day-4.md",
+		"/home/shen/shenseye.github.io/2015-10-10-DailyProgrammer-day-6.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-9-DailyProgrammer-day-5.md",
 		"/home/shen/shenseye.github.io/Gemfile",
 		"/home/shen/shenseye.github.io/_config.yml",
 		"/home/shen/shenseye.github.io/_posts/2015-10-9-Angular-Day-5.md",
-		"/home/shen/shenseye.github.io/_posts/2015-10-8-Angular-Day-4.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-7-DailyProgrammer-day-3.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-8-DailyProgrammer-day-4.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-7-Angular-Day-3.md",
@@ -807,9 +809,7 @@
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex3.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex29.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex26.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex25.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex21.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex22.py"
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex25.py"
 	],
 	"find":
 	{
@@ -958,29 +958,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2015-10-8-Angular-Day-4.md",
+					"file": "_posts/2015-10-10-Angular-Day-6.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3571,
+						"buffer_size": 2848,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								323,
-								323
+								2743,
+								2743
 							]
 						],
 						"settings":
 						{
+							"open_with_edit": true,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1606.0,
+						"translation.y": 1465.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
