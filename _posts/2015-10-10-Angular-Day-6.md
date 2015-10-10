@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[100 Days Angularjs] Day 5: Tutorial - 7 - Routing & Multiple Views
+title: "[100 Days Angularjs] Day 5: Tutorial - 7 - Routing & Multiple Views"
 date: 2015-10-10 22:16
 summary: The 6th day of my 100 day challenge with AngularJS
 categories: AngularJS
