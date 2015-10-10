@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "[Dailyprogrammer] Challenge 4 - #232 [Intermediate] Where Should Grandma's House Go?"
+title: "[Dailyprogrammer] Challenge 5 - #232 [Intermediate] Where Should Grandma's House Go?"
 date: 2015-10-09 20:52
 summary: Practicing programming by solving challenge from r/DailyProgrammer
 categories: Dailyprogrammer Challenge

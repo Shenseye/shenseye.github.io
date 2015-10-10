@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "[Dailyprogrammer] Challenge 4 - #213 [Easy] Cellular Automata: Rule 90"
+title: "[Dailyprogrammer] Challenge 6 - #213 [Easy] Cellular Automata: Rule 90"
 date: 2015-10-10 21:52
 summary: Practicing programming by solving challenge from r/DailyProgrammer
 categories: Dailyprogrammer Challenge

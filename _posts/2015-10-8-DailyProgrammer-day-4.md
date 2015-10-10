@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "[Dailyprogrammer] Challenge 3 - #230 [Easy] JSON treasure hunt"
+title: "[Dailyprogrammer] Challenge 4 - #230 [Easy] JSON treasure hunt"
 date: 2015-10-08
 summary: Practicing programming by solving challenge from r/DailyProgrammer
 categories: Dailyprogrammer Challenge
