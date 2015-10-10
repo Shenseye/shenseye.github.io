@@ -48,7 +48,9 @@ x xxx x
 ##### Challenge Output
 
 I chose this input because it's one of the most well known, it yields a Serpinski triangle, a well known fractcal.
-~~~~~~~~
+
+~~~~~
+
                                              x
                                             x x
                                            x   x
@@ -75,7 +77,8 @@ I chose this input because it's one of the most well known, it yields a Serpinsk
                       x x x x x x x x                 x x x x x x x x
                      x               x               x               x
                     x x             x x             x x             x x
-~~~~~~~
+                    
+~~~~~
 
 ## My solution
 
