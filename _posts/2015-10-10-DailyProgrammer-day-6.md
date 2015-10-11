@@ -82,7 +82,7 @@ I chose this input because it's one of the most well known, it yields a Serpinsk
 
 ## My solution
 
-my solution for this is add a `0` bit at the start and the end of the series and then loop from 1 to n - 1. And then 
+My solution for this is add a `0` bit at the start and the end of the series and then loop from 1 to n - 1. And then 
 simply using the Description code `newBit = oldBitLeft XOR oldBitRight`. End loop when print 25 times or all bits turn to 0.
 
 ### Javascript

@@ -520,18 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2015-10-10-Angular-Day-6.md",
+			"file": "_posts/2015-10-11-DailyProgrammer-day-7.md",
 			"settings":
 			{
-				"buffer_size": 2849,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-10-9-Angular-Day-5.md",
-			"settings":
-			{
-				"buffer_size": 2003,
+				"buffer_size": 2551,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,23 +531,7 @@
 			"file": "_posts/2015-10-10-DailyProgrammer-day-6.md",
 			"settings":
 			{
-				"buffer_size": 6322,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-10-8-DailyProgrammer-day-4.md",
-			"settings":
-			{
-				"buffer_size": 8449,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-10-9-DailyProgrammer-day-5.md",
-			"settings":
-			{
-				"buffer_size": 8042,
+				"buffer_size": 6340,
 				"line_ending": "Unix"
 			}
 		}
@@ -715,14 +691,15 @@
 	"file_history":
 	[
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-DailyProgrammer-day-6.md",
+		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-6.md",
+		"/home/shen/shenseye.github.io/_posts/2015-10-8-DailyProgrammer-day-4.md",
+		"/home/shen/shenseye.github.io/_posts/2015-10-9-DailyProgrammer-day-5.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-8-Angular-Day-4.md",
 		"/home/shen/shenseye.github.io/2015-10-10-DailyProgrammer-day-6.md",
-		"/home/shen/shenseye.github.io/_posts/2015-10-9-DailyProgrammer-day-5.md",
 		"/home/shen/shenseye.github.io/Gemfile",
 		"/home/shen/shenseye.github.io/_config.yml",
 		"/home/shen/shenseye.github.io/_posts/2015-10-9-Angular-Day-5.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-7-DailyProgrammer-day-3.md",
-		"/home/shen/shenseye.github.io/_posts/2015-10-8-DailyProgrammer-day-4.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-7-Angular-Day-3.md",
 		"/home/shen/shenseye.github.io/_layouts/post.html",
 		"/home/shen/shenseye.github.io/_posts/2015-10-5-Angular-Day-1.md",
@@ -840,8 +817,7 @@
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex30.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex3.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex29.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex26.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex25.py"
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex26.py"
 	],
 	"find":
 	{
@@ -990,19 +966,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2015-10-10-Angular-Day-6.md",
+					"file": "_posts/2015-10-11-DailyProgrammer-day-7.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2849,
+						"buffer_size": 2551,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								51,
-								51
+								880,
+								880
 							]
 						],
 						"settings":
@@ -1013,7 +989,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1500.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1021,49 +997,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_posts/2015-10-9-Angular-Day-5.md",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2003,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "_posts/2015-10-10-DailyProgrammer-day-6.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6322,
+						"buffer_size": 6340,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								70,
-								70
+								5168,
+								5168
 							]
 						],
 						"settings":
@@ -1073,70 +1019,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2446.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_posts/2015-10-8-DailyProgrammer-day-4.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8449,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								230,
-								158
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_posts/2015-10-9-DailyProgrammer-day-5.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8042,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								70,
-								70
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
