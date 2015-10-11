@@ -520,18 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2015-10-11-DailyProgrammer-day-7.md",
+			"file": "_posts/2015-10-10-Angular-Day-7.md",
 			"settings":
 			{
-				"buffer_size": 2551,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-10-10-DailyProgrammer-day-6.md",
-			"settings":
-			{
-				"buffer_size": 6340,
+				"buffer_size": 1214,
 				"line_ending": "Unix"
 			}
 		}
@@ -668,7 +660,7 @@
 	},
 	"console":
 	{
-		"height": 126.0,
+		"height": 128.0,
 		"history":
 		[
 			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -690,6 +682,7 @@
 	],
 	"file_history":
 	[
+		"/home/shen/shenseye.github.io/_posts/2015-10-11-DailyProgrammer-day-7.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-DailyProgrammer-day-6.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-6.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-8-DailyProgrammer-day-4.md",
@@ -816,8 +809,7 @@
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex31.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex30.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex3.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex29.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex26.py"
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex29.py"
 	],
 	"find":
 	{
@@ -961,24 +953,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2015-10-11-DailyProgrammer-day-7.md",
+					"file": "_posts/2015-10-10-Angular-Day-7.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2551,
+						"buffer_size": 1214,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								880,
-								880
+								615,
+								615
 							]
 						],
 						"settings":
@@ -989,37 +981,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1500.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2015-10-10-DailyProgrammer-day-6.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6340,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5168,
-								5168
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2446.0,
+						"translation.y": 288.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1062,6 +1024,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 168.0
 	},
 	"output.unsaved_changes":
 	{
