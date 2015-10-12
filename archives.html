@@ -4,6 +4,16 @@ title: Archives
 permalink: /archives/
 ---
 
-<h1><a href="{{ site.baseurl }}/category/angularjs/">AngularJs</a></h1>
-<h1><a href="{{ site.baseurl }}/category/dailyprogrammer/">Dailyprogrammer</a></h1>
-<h1><a href="{{ site.baseurl }}/category/challenge/">Challenge</a></h1>
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign sorted_posts = category[1] | reversed %}
+
+  <h2 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</H2>
+     <p>
+      {% for p in sorted_posts %}
+     <a href="{{ p.url }}">{{ p.title }}</a> &raquo;  <span class="entry-date"><time datetime="{{ p.date | date_to_xmlschema }}" itemprop="datePublished">{{ p.date | date: "%B %d, %Y" }}</time></span>
+     <br />
+      {% endfor %}
+    </p>
+  
+{% endfor %}                      

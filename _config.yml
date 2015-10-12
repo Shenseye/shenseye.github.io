@@ -51,16 +51,6 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-jekyll-archives:
-  enabled: all
-  layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
@@ -70,4 +60,3 @@ sass:
   compressed: true
 gems:
   - jemoji
-  - jekyll-archives
