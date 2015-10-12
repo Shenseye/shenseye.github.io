@@ -519,6 +519,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "archives.html",
+			"settings":
+			{
+				"buffer_size": 603,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -673,19 +681,18 @@
 	},
 	"expanded_folders":
 	[
-		"/home/shen/shenseye.github.io",
-		"/home/shen/shenseye.github.io/_site/angularjs/2015",
-		"/home/shen/shenseye.github.io/_site/angularjs/2015/10",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015",
-		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/05/DailyProgrammer-day-1"
+		"/home/shen/shenseye.github.io"
 	],
 	"file_history":
 	[
-		"/home/shen/shenseye.github.io/_includes/head.html",
-		"/home/shen/shenseye.github.io/Gemfile",
 		"/home/shen/shenseye.github.io/_config.yml",
+		"/home/shen/shenseye.github.io/Gemfile",
 		"/home/shen/shenseye.github.io/archives.html",
+		"/home/shen/shenseye.github.io/.gitignore",
+		"/home/shen/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/shen/shenseye.github.io/_layouts/archive.html",
+		"/home/shen/shenseye.github.io/_layouts/category_archive.html",
+		"/home/shen/shenseye.github.io/_includes/head.html",
 		"/home/shen/shenseye.github.io/_site/archives/index.html",
 		"/home/shen/shenseye.github.io/_includes/navigation.html",
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-7.md",
@@ -710,7 +717,6 @@
 		"/home/shen/shenseye.github.io/_includes/social_links.html",
 		"/home/shen/shenseye.github.io/about.md",
 		"/home/shen/shenseye.github.io/_includes/footer.html",
-		"/home/shen/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
 		"/home/shen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/shen/shenseye.github.io/404.md",
 		"/home/shen/shenseye.github.io/CNAME",
@@ -806,10 +812,7 @@
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex39.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex38.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex35.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33_refactor_for.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33_refactor.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex32.py"
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33_refactor_for.py"
 	],
 	"find":
 	{
@@ -954,8 +957,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "archives.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -965,7 +997,7 @@
 	},
 	"input":
 	{
-		"height": 64.0
+		"height": 69.0
 	},
 	"layout":
 	{

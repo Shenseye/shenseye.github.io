@@ -12,9 +12,9 @@ published: true
 
 To be honest i learned not thing from this lesson. It is exactly the same thing as day 5. The only
 new thing is $routeParams service. From what i see i think it act like an object that hold 
-parameter as property from the route. Any this day i made another toy project from FreeCodeCamp - A
+parameter as property from the route. Anyway this day i made another toy project from FreeCodeCamp - A
 Caculator. I made it using JQuery not Angular because i think using Angular for this simple thing 
-is too complicated. I will show it here anyway. And beside that with this thing done, i only have 
+is too complicated. I will show it here anyway. And beside that, with this thing done, i only have 
 to finish two project to claim my FreeCodeCamp FrontEnd Certificate.
 
 ## The FreeCodeCamp Caculator
