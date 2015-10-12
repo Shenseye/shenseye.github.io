@@ -8,8 +8,8 @@ url:         "http://shenseye.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics:
-google_verification:
+google_analytics: UA-68709803-1
+google_verification: 
 
 # Optional features
 animated:             true
