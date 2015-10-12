@@ -519,22 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "archives.html",
-			"settings":
-			{
-				"buffer_size": 261,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Rakefile",
-			"settings":
-			{
-				"buffer_size": 1776,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -544,9 +528,13 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "ma",
+		"last_filter": "te",
 		"selected_items":
 		[
+			[
+				"te",
+				"Terminal: Open in project folder"
+			],
 			[
 				"ma",
 				"Markdown Preview: Preview in Browser"
@@ -664,7 +652,7 @@
 				"Package Syncing: Define Sync Folder"
 			]
 		],
-		"width": 557.0
+		"width": 430.0
 	},
 	"console":
 	{
@@ -685,14 +673,21 @@
 	},
 	"expanded_folders":
 	[
-		"/home/shen/shenseye.github.io"
+		"/home/shen/shenseye.github.io",
+		"/home/shen/shenseye.github.io/_site/angularjs/2015",
+		"/home/shen/shenseye.github.io/_site/angularjs/2015/10",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015",
+		"/home/shen/shenseye.github.io/_site/dailyprogrammer/challenge/2015/10/05/DailyProgrammer-day-1"
 	],
 	"file_history":
 	[
+		"/home/shen/shenseye.github.io/_includes/head.html",
 		"/home/shen/shenseye.github.io/Gemfile",
 		"/home/shen/shenseye.github.io/_config.yml",
-		"/home/shen/shenseye.github.io/_includes/navigation.html",
 		"/home/shen/shenseye.github.io/archives.html",
+		"/home/shen/shenseye.github.io/_site/archives/index.html",
+		"/home/shen/shenseye.github.io/_includes/navigation.html",
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-7.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-11-DailyProgrammer-day-7.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-DailyProgrammer-day-6.md",
@@ -711,7 +706,6 @@
 		"/home/shen/shenseye.github.io/_posts/2015-10-05-DailyProgrammer-day-1.md",
 		"/home/shen/.local/share/applications/chrome-aohghmighlieiainnegkcijnfilokake-Default.desktop",
 		"/home/shen/.local/share/applications/chrome-kpjhcddaofpohlbadnmnnaenmmefdbgn-Default.desktop",
-		"/home/shen/shenseye.github.io/_includes/head.html",
 		"/home/shen/shenseye.github.io/_includes/post_footer.html",
 		"/home/shen/shenseye.github.io/_includes/social_links.html",
 		"/home/shen/shenseye.github.io/about.md",
@@ -815,8 +809,7 @@
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33_refactor_for.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33_refactor.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex33.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex32.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex31.py"
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex32.py"
 	],
 	"find":
 	{
@@ -961,67 +954,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "archives.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 261,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								260,
-								260
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Rakefile",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1776,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1595,
-								1595
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 720.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1209,7 +1143,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 340.0,
 	"status_bar_visible": true,
 	"template_settings":
