@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "archives.html",
+			"file": "Rakefile",
 			"settings":
 			{
-				"buffer_size": 603,
+				"buffer_size": 1776,
 				"line_ending": "Unix"
 			}
 		}
@@ -660,7 +660,7 @@
 				"Package Syncing: Define Sync Folder"
 			]
 		],
-		"width": 430.0
+		"width": 557.0
 	},
 	"console":
 	{
@@ -681,10 +681,12 @@
 	},
 	"expanded_folders":
 	[
-		"/home/shen/shenseye.github.io"
+		"/home/shen/shenseye.github.io",
+		"/home/shen/shenseye.github.io/_posts"
 	],
 	"file_history":
 	[
+		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-7.md",
 		"/home/shen/shenseye.github.io/_config.yml",
 		"/home/shen/shenseye.github.io/Gemfile",
 		"/home/shen/shenseye.github.io/archives.html",
@@ -695,7 +697,6 @@
 		"/home/shen/shenseye.github.io/_includes/head.html",
 		"/home/shen/shenseye.github.io/_site/archives/index.html",
 		"/home/shen/shenseye.github.io/_includes/navigation.html",
-		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-7.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-11-DailyProgrammer-day-7.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-DailyProgrammer-day-6.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-6.md",
@@ -962,27 +963,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "archives.html",
+					"file": "Rakefile",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 603,
+						"buffer_size": 1776,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								140,
-								140
+								898,
+								898
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 504.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
