@@ -57,7 +57,7 @@ Write a function that takes your output as input and verifies that it is a valid
 ##### My solution
 
 This simple is really simple. I just need to make an array of those pieces. And then make a copy 
-of them and use it as a pool to randomly pick one of them. Every time i time i run out of pieces 
+of them and use it as a pool to randomly pick one of them. Every time i run out of pieces 
 i will make a new copy. And with the validate function i just do the same thing.
 
 ##### Javascript

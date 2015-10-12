@@ -520,10 +520,18 @@
 	"buffers":
 	[
 		{
-			"file": "Rakefile",
+			"file": "_posts/2015-10-12-angular-day-8.md",
 			"settings":
 			{
-				"buffer_size": 1776,
+				"buffer_size": 1189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-10-12-dailyprogrammer-day-8.md",
+			"settings":
+			{
+				"buffer_size": 3660,
 				"line_ending": "Unix"
 			}
 		}
@@ -958,34 +966,60 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Rakefile",
-					"semi_transient": true,
+					"file": "_posts/2015-10-12-angular-day-8.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1776,
+						"buffer_size": 1189,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								898,
-								898
+								197,
+								197
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 504.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-10-12-dailyprogrammer-day-8.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2124,
+								2124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1573.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
