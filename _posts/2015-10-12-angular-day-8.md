@@ -12,8 +12,6 @@ published: true
 So the thing i learned today from the Angular tutorial is how to make a custom Filter. Let's 
 break it down.
 
-
-
 ### Custom Filter
 
 So in order to create a new filter, i have to make a new module and register a filter with this module:
