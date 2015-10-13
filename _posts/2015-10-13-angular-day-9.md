@@ -4,13 +4,14 @@ title: "[100 Days Angularjs] Day 8: Tutorial - 10 - Event Handlers"
 date: 2015-10-13 14:17
 summary: The 9th day of my 100 day challenge with AngularJS
 categories: AngularJS
-published: false
+published: true
 ---
 
-## Day 8 of 100 days with Angular
+## Day 9 of 100 days with Angular
 
-So the thing i learned today from the Angular tutorial is how to make a custom Filter. Let's 
-break it down.
+So i notice that because they still don't teach the Controller As syntax so i have to inject the 
+global `$scope` into my controller to public some property from that controller. And about event
+handler because i have some background with C# so i know that an event handler is just some function that subscribe to some event. And from what i see here it is the same concept.
 
 ### Controller
 
@@ -33,7 +34,7 @@ phonecatControllers.controller('PhoneDetailCtrl', ['$scope', '$routeParams', '$h
   }]);
 {% endhighlight %}
 
-
+So here they public the setImage function to the global scope so we can use it in the template.
 
 ### Template
 app/partials/phone-detail.html:
@@ -49,68 +50,6 @@ app/partials/phone-detail.html:
 </ul>
 ...
 
-
-
-### E2E Test
-
-#### `test/e2e/scenarios.js`:
-
-{% highlight js %}
-...
-  describe('Phone detail view', function() {
-
-...
-
-    it('should display the first phone image as the main phone image', function() {
-      expect(element(by.css('img.phone')).getAttribute('src')).toMatch(/img\/phones\/nexus-s.0.jpg/);
-    });
-
-
-    it('should swap main image if a thumbnail image is clicked on', function() {
-      element(by.css('.phone-thumbs li:nth-child(3) img')).click();
-      expect(element(by.css('img.phone')).getAttribute('src')).toMatch(/img\/phones\/nexus-s.2.jpg/);
-
-      element(by.css('.phone-thumbs li:nth-child(1) img')).click();
-      expect(element(by.css('img.phone')).getAttribute('src')).toMatch(/img\/phones\/nexus-s.0.jpg/);
-    });
-  });
-{% endhighlight %}
-
-### Unit Test
-
-#### `test/unit/controllersSpec.js`:
-
-...
-  beforeEach(module('phonecatApp'));
-
-...
-
- describe('PhoneDetailCtrl', function(){
-    var scope, $httpBackend, ctrl,
-        xyzPhoneData = function() {
-          return {
-            name: 'phone xyz',
-            images: ['image/url1.png', 'image/url2.png']
-          }
-        };
-
-
-    beforeEach(inject(function(_$httpBackend_, $rootScope, $routeParams, $controller) {
-      $httpBackend = _$httpBackend_;
-      $httpBackend.expectGET('phones/xyz.json').respond(xyzPhoneData());
-
-      $routeParams.phoneId = 'xyz';
-      scope = $rootScope.$new();
-      ctrl = $controller('PhoneDetailCtrl', {$scope: scope});
-    }));
-
-
-    it('should fetch phone detail', function() {
-      expect(scope.phone).toBeUndefined();
-      $httpBackend.flush();
-
-      expect(scope.phone).toEqual(xyzPhoneData());
-    });
-  });
-{% endhighlight %}
+And here is where we subscribe that event. So everytime the click event is fired we will run this
+function with `img` as an argument. And it will set the current `mainImageUrl` to that `img` variable.
 
