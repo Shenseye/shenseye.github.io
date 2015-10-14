@@ -526,6 +526,14 @@
 				"buffer_size": 1700,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "_posts/2015-10-14-angular-day-10.md",
+			"settings":
+			{
+				"buffer_size": 4520,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -958,7 +966,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -974,8 +982,8 @@
 						"selection":
 						[
 							[
-								1699,
-								1699
+								1700,
+								1700
 							]
 						],
 						"settings":
@@ -985,7 +993,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 648.0,
+						"translation.y": 1398.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-10-14-angular-day-10.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1178,7 +1214,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 340.0,
 	"status_bar_visible": true,
 	"template_settings":
