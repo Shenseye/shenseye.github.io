@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[100 Days Angularjs] Day 8: Tutorial - 10 - Event Handlers"
+title: "[100 Days Angularjs] Day 9: Tutorial - 10 - Event Handlers"
 date: 2015-10-13 14:17
 summary: The 9th day of my 100 day challenge with AngularJS
 categories: AngularJS

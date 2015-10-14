@@ -520,34 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2015-10-13-dailyprogrammer-day-9.md",
-			"settings":
-			{
-				"buffer_size": 5362,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_header.scss",
-			"settings":
-			{
-				"buffer_size": 691,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_posts.scss",
-			"settings":
-			{
-				"buffer_size": 660,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "_posts/2015-10-13-angular-day-9.md",
 			"settings":
 			{
-				"buffer_size": 2802,
+				"buffer_size": 1700,
 				"line_ending": "Unix"
 			}
 		}
@@ -706,12 +682,15 @@
 	"expanded_folders":
 	[
 		"/home/shen/shenseye.github.io",
-		"/home/shen/shenseye.github.io/_sass"
+		"/home/shen/shenseye.github.io/_posts"
 	],
 	"file_history":
 	[
-		"/home/shen/shenseye.github.io/_posts/2015-10-12-angular-day-8.md",
+		"/home/shen/shenseye.github.io/_posts/2015-10-13-dailyprogrammer-day-9.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-13-angular-day-9.md",
+		"/home/shen/shenseye.github.io/_sass/_header.scss",
+		"/home/shen/shenseye.github.io/_sass/_posts.scss",
+		"/home/shen/shenseye.github.io/_posts/2015-10-12-angular-day-8.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-12-dailyprogrammer-day-8.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-7.md",
 		"/home/shen/shenseye.github.io/_config.yml",
@@ -834,10 +813,7 @@
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex6.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex7.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex8.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex9.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/hashmap.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex39_test.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex39.py"
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex9.py"
 	],
 	"find":
 	{
@@ -982,112 +958,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2015-10-13-dailyprogrammer-day-9.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5107,
-								5107
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 3205.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_sass/_header.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 691,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								83,
-								83
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_sass/_posts.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 660,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								282,
-								282
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 144.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "_posts/2015-10-13-angular-day-9.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2802,
+						"buffer_size": 1700,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								282,
-								282
+								1699,
+								1699
 							]
 						],
 						"settings":
@@ -1097,10 +985,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 648.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
