@@ -520,18 +520,18 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2015-10-13-angular-day-9.md",
+			"file": "_posts/2015-10-14-angular-day-10.md",
 			"settings":
 			{
-				"buffer_size": 1700,
+				"buffer_size": 4521,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_posts/2015-10-14-angular-day-10.md",
+			"file": "_posts/2015-10-14-dailyprogrammer-day-10.md",
 			"settings":
 			{
-				"buffer_size": 4520,
+				"buffer_size": 4532,
 				"line_ending": "Unix"
 			}
 		}
@@ -695,7 +695,10 @@
 	"file_history":
 	[
 		"/home/shen/shenseye.github.io/_posts/2015-10-13-dailyprogrammer-day-9.md",
+		"/home/shen/shenseye.github.io/_posts/2015-10-14-angular-day-10.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-13-angular-day-9.md",
+		"/home/shen/shenseye.github.io/archives.html",
+		"/home/shen/shenseye.github.io/_layouts/post.html",
 		"/home/shen/shenseye.github.io/_sass/_header.scss",
 		"/home/shen/shenseye.github.io/_sass/_posts.scss",
 		"/home/shen/shenseye.github.io/_posts/2015-10-12-angular-day-8.md",
@@ -703,7 +706,6 @@
 		"/home/shen/shenseye.github.io/_posts/2015-10-10-Angular-Day-7.md",
 		"/home/shen/shenseye.github.io/_config.yml",
 		"/home/shen/shenseye.github.io/Gemfile",
-		"/home/shen/shenseye.github.io/archives.html",
 		"/home/shen/shenseye.github.io/.gitignore",
 		"/home/shen/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
 		"/home/shen/shenseye.github.io/_layouts/archive.html",
@@ -721,7 +723,6 @@
 		"/home/shen/shenseye.github.io/_posts/2015-10-9-Angular-Day-5.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-7-DailyProgrammer-day-3.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-7-Angular-Day-3.md",
-		"/home/shen/shenseye.github.io/_layouts/post.html",
 		"/home/shen/shenseye.github.io/_posts/2015-10-5-Angular-Day-1.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-06-Angular-Day-2.md",
 		"/home/shen/shenseye.github.io/_posts/2015-10-06-DailyProgrammer-day-2.md",
@@ -820,8 +821,7 @@
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex5.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex6.py",
 		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex7.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex8.py",
-		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex9.py"
+		"/home/shen/learnpythongroup/LearnPythonTheHardWayToPython3/ex8.py"
 	],
 	"find":
 	{
@@ -971,19 +971,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2015-10-13-angular-day-9.md",
+					"file": "_posts/2015-10-14-angular-day-10.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1700,
+						"buffer_size": 4521,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1700,
-								1700
+								253,
+								253
 							]
 						],
 						"settings":
@@ -993,7 +993,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1398.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1001,19 +1001,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_posts/2015-10-14-angular-day-10.md",
+					"file": "_posts/2015-10-14-dailyprogrammer-day-10.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4520,
+						"buffer_size": 4532,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4044,
-								4044
+								3072,
+								3072
 							]
 						],
 						"settings":
@@ -1021,7 +1021,7 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2760.0,
+						"translation.y": 1368.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1214,7 +1214,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 340.0,
 	"status_bar_visible": true,
 	"template_settings":
