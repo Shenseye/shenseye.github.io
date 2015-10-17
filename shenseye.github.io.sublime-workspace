@@ -520,10 +520,18 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "_posts/2015-10-16-angular-day-11.md",
 			"settings":
 			{
-				"buffer_size": 597,
+				"buffer_size": 1763,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-10-14-angular-day-10.md",
+			"settings":
+			{
+				"buffer_size": 4521,
 				"line_ending": "Unix"
 			}
 		}
@@ -536,9 +544,13 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "te",
+		"last_filter": "t",
 		"selected_items":
 		[
+			[
+				"t",
+				"Terminal: Open in project folder"
+			],
 			[
 				"te",
 				"Terminal: Open in project folder"
@@ -660,7 +672,7 @@
 				"Package Syncing: Define Sync Folder"
 			]
 		],
-		"width": 557.0
+		"width": 431.0
 	},
 	"console":
 	{
@@ -681,7 +693,8 @@
 	},
 	"expanded_folders":
 	[
-		"/home/shen/shenseye.github.io"
+		"/home/shen/shenseye.github.io",
+		"/home/shen/shenseye.github.io/_posts"
 	],
 	"file_history":
 	[
@@ -962,24 +975,52 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": true,
+					"file": "_posts/2015-10-16-angular-day-11.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 597,
+						"buffer_size": 1763,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								101,
-								101
+								687,
+								687
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 229.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-10-14-angular-day-10.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -987,7 +1028,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

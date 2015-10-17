@@ -39,16 +39,16 @@ So here they public the setImage function to the global scope so we can use it i
 ### Template
 app/partials/phone-detail.html:
 
+{% highlight html %}
 <img ng-src="{{mainImageUrl}}" class="phone">
-
-...
-
 <ul class="phone-thumbs">
   <li ng-repeat="img in phone.images">
     <img ng-src="{{img}}" ng-click="setImage(img)">
   </li>
 </ul>
-...
+{% endhighlight %}
+
+
 
 And here is where we subscribe that event. So everytime the click event is fired we will run this
 function with `img` as an argument. And it will set the current `mainImageUrl` to that `img` variable.
